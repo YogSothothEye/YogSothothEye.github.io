@@ -7,7 +7,7 @@ description: "人是一根会思考的芦苇."
 keyword: ""
 url: "https://yogsothotheye.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/YogSothothEye/yogsothotheye.github.io.git" # you code repository
+github_repo: "https://github.com/YogSothothEye/YogSothothEye.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
